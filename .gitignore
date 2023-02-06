@@ -1,0 +1,5 @@
+.DS_Store
+iTrust/.idea/*
+.idea/*
+iTrust/WebRoot/META-INF/context.xml
+iTrust/WebRoot/ultrasound/*
